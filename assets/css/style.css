@@ -3668,3 +3668,7 @@ header .logo img {
 header .logo {
   padding: 10px;
 }
+
+.footer-logo img {
+  block-size: 100px;
+}
